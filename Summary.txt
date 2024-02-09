@@ -1,0 +1,44 @@
+VIDEO 1
+    Click ! enter to initalize the HTML page fast
+    Remember to initalize the link tag inside the index file with the needed folder or external links
+    Remember to add the Google fonts link to the index file
+    The normalize css file is used by lots of frameworks to reset most of the webpage css properties, and it is downloaded from the internet
+VIDEO 2
+    Font awesome is our go to when we want to find some icons for our webpage
+    Remember to add the web fonts folder to your project folder
+    CONTAINERS
+        A small template that take in the elements and isolates them from the project as a whole
+    margin css attribute is used to move the html elements place throughout the page
+    Padding css attribute is useful for mobile applications ; it helps the us to make the text start from different places on the screen rather than the start of the screen
+    Usually it is more beautiful to have free or empty space around the elements specially form left and right when making a webpage : the margin css attribute is useful here
+    If we have a css attribute like width : 600px 
+        Then we gonna have a design problem when we change the size of the browser 
+        Therefore we need to have a dynamic values for such attributes that might affect the beauty of the webpage when the user change the browser size
+        Here we will need to use Media Queries to have a more dynamic webpage
+    Media Queries
+        Help us to make the elements more dynamic so that when we zoom in or zoom out the elements arent affected in a bad manner
+        Also partially stop the left and right scroll which will ruin the webpage desgin
+        In other words, it help the elements to stay inside the media
+VIDEO 3
+    We can make icons using html and css instead of using font awesome
+    ul tag used for unordered list and they usually contains li elements which represent the list elements 
+    To make a transition effect Remember to use transition with :hover to make the effect work
+    Take care from the dots, semicolons , colons , and commas when writing css
+VIDEO 4
+    Using ::before and :hover and the display attribute helps you to just elements until hovering a certain place in the screen
+VIDEO 5
+    When working with images that is gonna cover the full screen take care from it width and height and margin
+    Position relative and absolute will help you center element with the help of top ,left , and  transform :translate(-50px,-50px);
+VIDEO 6
+    To use a a variable in css we should use the var function
+    The varibales should be stored at the root element so that they can be accessible to every other css function
+VIDEO 7 & 8
+    flex-basis in css works on both columns and rows
+    You can think about z-index that it moves the elements but in terms of LAYERS
+VIDEO 9
+    When adding photos , it is important to get a group of photos that have the same size
+VIDEO 13
+    CSS scroll-behaviour attribute : smooth will make the scrolling when we click on links that are contained inside the page smoother
+    Take care if the browser that your are using support the CSS attribute that you included inside your project
+
+
